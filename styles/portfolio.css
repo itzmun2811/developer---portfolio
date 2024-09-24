@@ -1,0 +1,39 @@
+/* nav related style */
+nav{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+}
+.web-tittle{
+    font-size: 45px;
+    font-weight: 800;
+    font-family: serif;
+}
+nav>ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+.text-primary{
+    color: orange;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(13, 124, 236)
+}
+.btn-primary{
+    border-radius: 2px;
+    background-color: orange;
+    border: 0;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    color: white;
+    padding: 10px 10px;
+   
+
+}
