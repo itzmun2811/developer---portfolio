@@ -79,7 +79,7 @@ p{
    margin: 130px 0;
 }
 .about-info{
-   
+    text-align: center;
 }
 .about-info-container{
 display: flex;
@@ -98,6 +98,9 @@ justify-content: space-around;
     text-align: center;
     color: #757575;
     
+}
+#description{
+    padding: 30px 150px;
 }
 /* main menu styles */
 main{
