@@ -1,0 +1,44 @@
+/* nav related style */
+nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 0px 200px;
+}
+nav>ul{
+    display: flex;
+    align-items: center;
+}
+nav li {
+list-style: none;
+margin-right: 50px;
+
+}
+nav a{
+    text-decoration: none;
+    color: purple;
+    font-size: 20px;
+}
+.web-tittle{
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 800;
+}
+.text-primary{
+    color: #ef8337}
+.btn-primary{
+border-radius: 2px;
+border: 0;
+background-color: #ef8337;
+color: white;
+font-size: 20px;
+font-weight: 300;
+font-style: normal;
+padding: 10px 10px;
+ }
+ .banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 30px 0px 150px;
+ }
