@@ -67,3 +67,31 @@ p{margin-top: 5px;
 .profile-pic{
     width:500px ;
 }
+/* about menu styles */
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about{
+    background-color:#fff2e8 ;
+border-radius: 10px;
+    margin: 130px;
+    padding: 130px;
+   
+
+}
+.about-info{
+    text-align: center;
+}
+
+.section-tittle{
+    font-size: 35px;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+}
+.section-description{
+    text-align: center;
+    color: #757575;
+    font-size: 18px;
+}
