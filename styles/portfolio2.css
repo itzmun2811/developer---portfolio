@@ -95,3 +95,10 @@ border-radius: 10px;
     color: #757575;
     font-size: 18px;
 }
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+#description{
+    padding: 30px 150px;
+}
